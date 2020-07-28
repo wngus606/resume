@@ -33,13 +33,49 @@ Email
 
 ## 프로젝트
 
-* 2016.08 ~ 2017.04 - maptales - 여행을 추억하는 새로운 방법
-* 2017.06 ~ 2017.11 - maplans
-* 2017.12 ~ 2018.03 - gandanFrame
-* 2018.02 ~ 2018.05 - Luminati - Moblie
+* maptales - 여행을 추억하는 새로운 방법
+* maplans
+* gandanFrame
+* Luminati - Moblie
+* 간단따릉이
+* 마트휴무일
+* 리딩트리
+* AC: Community
 
 개인 및 팀
 --------
+
+#### AC: Community
+
+* 앱스토어 : [AC: Community](https://apps.apple.com/kr/app/id1507394206)
+
+![]()
+![]()
+![]()
+
+#### 리딩트리
+
+* 앱스토어 : [리딩트리](https://apps.apple.com/kr/app/id1506021475)
+
+![]()
+![]()
+![]()
+
+#### 마트휴무일
+
+* 앱스토어 : [마트휴무일](https://apps.apple.com/kr/app/id1490739877)
+
+![]()
+![]()
+![]()
+
+#### 간단따릉이
+
+* 앱스토어 : [간단따릉이](https://apps.apple.com/kr/app/id1438707022)
+
+![]()
+![]()
+![]()
 
 #### gandanFrame
 
